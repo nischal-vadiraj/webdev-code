@@ -1,0 +1,9 @@
+div {
+    background-color: brown;
+    width: 200px;
+    height: 200px;
+    color: snow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
